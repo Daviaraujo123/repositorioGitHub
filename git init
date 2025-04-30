@@ -1,0 +1,17 @@
+[33mcommit e5d2f4729310331419f3bf0a00ca7b98307fb774[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Daviaraujo123 <eldtrabalhoa@gmail.com>
+Date:   Wed Apr 30 15:28:45 2025 +0000
+
+    Melhora a saída com f-string
+
+[33mcommit ad0a621e84626f066673e89afcc1d0ac102392e6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daviaraujo123 <eldtrabalhoa@gmail.com>
+Date:   Wed Apr 30 15:21:44 2025 +0000
+
+    Adiciona script simples de soma
+
+[33mcommit 88d31fb5d0250d2e7fa377dc16881e389be3b294[m
+Author: Daviaraujo123 <eldtrabalhoa@gmail.com>
+Date:   Wed Apr 30 12:15:43 2025 -0300
+
+    Initial commit
